@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="fruitmap.css">
+<body>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p>fruitmap</p>
+<br><br><br><br><br><br>
+<img src="https://img.freepik.com/free-vector/isolated-tree-white-background_1308-79519.jpg?w=2000" style="width:60%">
+<br><br><br><br><br><br><br><br><br><br>
+<div class="topnav">
+<input type="text" placeholder="">
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="https://static.vecteezy.com/system/resources/previews/016/102/813/original/mangosteen-cartoon-icon-illustration-vector.jpg" style="width:30%">
+<br><br><br><br>
+<p>mangostein</p>
+<p>MD oriental market</p>
+<p>3 pounds</p>
+<p>$25</p>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://t3.ftcdn.net/jpg/01/90/98/02/360_F_190980249_pzkfUClHECyMg8PCD1kxIQLydshVMuh2.jpg" style="width:40%">
+<br><br><br><br>
+<p>frozen durian</p>
+<p>dong A market</p>
+<p> 10 pounds</p>
+<p>$25</p>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7798794/apple-clipart-xl.png" style="width:20%">
+<br><br><br><br>
+<p>autumn glory apples</p>
+<p>aldi</p>
+<p>3 pounds</p>
+<p>$3.50</p>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7798794/apple-clipart-xl.png" style="width:20%">
+<br><br><br><br>
+<p>envy apples</p>
+<p>costco</p>
+<p>4 pounds</p>
+<p>$5.50</p>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://images.assetsdelivery.com/compings_v2/sabelskaya/sabelskaya1706/sabelskaya170600529.jpg" style="width:25%">
+<br><br><br><br>
+<p>raw steam-treated shelled pistachios</p>
+<p>trader joe's</p>
+<p>1 pound</p>
+<p>$12</p>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://pngfre.com/wp-content/uploads/orange-64.png" style="width:25%">
+<br><br><br><br>
+<p>oranges</p>
+<p>costco</p>
+<p>10 pounds</p>
+<p>$10</p>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://us.123rf.com/450wm/blueringmedia/blueringmedia1912/blueringmedia191201726/136079624-green-lettuce-on-white-background-illustration.jpg?ver=6" style="width:25%">
+<br><br><br><br>
+<p>romaine hearts</p>
+<p>costco</p>
+<p>5 romaine hearts</p>
+<p>$5</p>
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://t3.ftcdn.net/jpg/01/73/88/16/360_F_173881614_fSQVGSHI4z6P2wiYPgyzCR7GsbbcLQdq.jpg" style="width:30%">
+<br><br><br><br>
+<p>raw organic honey</p>
+<p>publix, trader joe's, walmart, target</p>
+<p>16 ounces</p>
+<p>$6</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<a href="url">i found fruit</a>
+<br><br><br>
+<a href="url">contact</a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p>i found fruit</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <p>what kind of fruit did you find?</p>
+    <br><br>
+    <div class="topnav">
+        <input type="text" placeholder="">
+        </div>
+        <br><br><br><br><br><br><br><br>
+        <p>where did you find it?</p>
+    <br><br>
+    <div class="topnav">
+        <input type="text" placeholder="">
+        </div>
+        <p>how much does it weigh?</p>
+    <br><br>
+    <div class="topnav">
+        <input type="text" placeholder="">
+        </div>
+        <p>how much does it cost?</p>
+    <br><br>
+    <div class="topnav">
+        <input type="text" placeholder="">
+        </div>
+        <br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div class="topnav">
+<input type="text" placeholder="">
+<div class="topnav">
+<input type="text" placeholder="">
+</div>
+</div>
+</body>
+</html>
